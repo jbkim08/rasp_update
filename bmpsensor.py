@@ -1,22 +1,8 @@
 #!/usr/bin/python
 #--------------------------------------
-#    ___  ___  _ ____          
-#   / _ \/ _ \(_) __/__  __ __ 
-#  / , _/ ___/ /\ \/ _ \/ // / 
-# /_/|_/_/  /_/___/ .__/\_, /  
-#                /_/   /___/   
-#
 #           bmp180.py
-#  Read data from a digital pressure sensor.
-#
-# Author : Matt Hawkins
-# Date   : 17/02/2017
-#
-# http://www.raspberrypi-spy.co.uk/
-
-# Modified by Amit Rana, kitflix.com for educational purpose
-# Date : 13/07/2019
-#
+# 디지털 압력센서 bmp180에서 데이터를 읽기
+#  
 #--------------------------------------
 
 
